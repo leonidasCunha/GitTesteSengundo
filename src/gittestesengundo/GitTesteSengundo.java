@@ -19,6 +19,7 @@ public class GitTesteSengundo {
      */
     public static void main(String[] args) {
         //Testado e aprovado!
+        //Certo valeu!
         int sorte, leo;
         
         Scanner input = new Scanner(System.in);

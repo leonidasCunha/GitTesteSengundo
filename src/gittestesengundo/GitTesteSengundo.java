@@ -18,6 +18,7 @@ public class GitTesteSengundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Testado e aprovado!
         int sorte, leo;
         
         Scanner input = new Scanner(System.in);

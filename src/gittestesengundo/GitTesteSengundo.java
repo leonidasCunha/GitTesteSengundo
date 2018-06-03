@@ -25,7 +25,7 @@ public class GitTesteSengundo {
         Scanner input = new Scanner(System.in);
         Random random = new Random();
         leo = random.nextInt(10)+1;
-        System.out.println("O numero Sorteado foi: "+ leo);
+        //System.out.println("O numero Sorteado foi: "+ leo);
         int x = 1;
         while(true){
             System.out.print("Digite um numero da sorte: ");
